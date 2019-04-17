@@ -24,10 +24,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        // UNCOMMENT BELOW FUNCTION CALLS TO SEE THE DIFFERENT BEHAVIOURS
         doSetupUIForDog()
-        doSetupUIForString()
-        doSetupUIForCountry()
-        doSetupUIForHybrid()
+        //doSetupUIForString()
+        //doSetupUIForCountry()
+        //doSetupUIForHybrid()
     }
     
     //MARK:- UI SETUP
